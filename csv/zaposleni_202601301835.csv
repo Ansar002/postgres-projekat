@@ -1,0 +1,6 @@
+"zaposleni_id","ime","prezime","email","pozicija","datum_zaposlenja"
+1,Petar,Simic,petar.simic@library.com,Bibliotekar,2020-01-10
+2,Ivana,Djuric,ivana.djuric@library.com,Bibliotekar,2021-03-15
+3,Milan,Jankovic,milan.j@library.com,Menadzer,2019-05-20
+4,Sanja,Kostic,sanja.k@library.com,Bibliotekar,2022-02-01
+5,Dragan,Tomic,dragan.t@library.com,Administrator,2018-09-10

@@ -1,0 +1,9 @@
+"primjerak_id","knjiga_id","inventarski_broj","filijala_id","polica_id","status"
+1,1,INV001,1,1,DOSTUPNO
+2,1,INV002,1,2,IZDATO
+3,2,INV003,1,1,DOSTUPNO
+4,3,INV004,2,3,DOSTUPNO
+5,4,INV005,2,4,DOSTUPNO
+6,5,INV006,3,5,DOSTUPNO
+7,6,INV007,3,,DOSTUPNO
+8,3,INV008,2,3,IZDATO

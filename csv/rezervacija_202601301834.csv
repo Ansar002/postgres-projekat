@@ -1,0 +1,4 @@
+"rezervacija_id","clan_id","knjiga_id","datum_rezervacije","datum_isteka","status"
+1,4,1,2024-01-10,2024-01-20,AKTIVNA
+2,5,3,2024-01-12,2024-01-22,AKTIVNA
+3,6,4,2024-01-05,2024-01-15,ISTEKLA

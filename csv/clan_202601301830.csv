@@ -1,0 +1,11 @@
+"clan_id","broj_karte","ime","prezime","email","telefon","datum_uclanjenja","status"
+1,C001,Marko,Petrovic,marko.petrovic@mail.com,"069111111",2023-01-10,AKTIVAN
+2,C002,Ana,Jovanovic,ana.jovanovic@mail.com,"069222222",2023-02-12,AKTIVAN
+3,C003,Ivan,Nikolic,ivan.nikolic@mail.com,"069333333",2023-03-15,AKTIVAN
+4,C004,Milica,Kovacevic,milica.k@mail.com,"069444444",2023-04-01,AKTIVAN
+5,C005,Stefan,Ilic,stefan.ilic@mail.com,"069555555",2023-04-20,AKTIVAN
+6,C006,Jelena,Radovic,jelena.radovic@mail.com,"069666666",2023-05-10,NEAKTIVAN
+7,C007,Nikola,Vukovic,nikola.vukovic@mail.com,"069777777",2023-06-01,AKTIVAN
+8,C008,Sara,Popovic,sara.popovic@mail.com,"069888888",2023-06-15,AKTIVAN
+9,C009,Luka,Markovic,luka.markovic@mail.com,"069999999",2023-07-01,BLOKIRAN
+10,C010,Marija,Stojanovic,marija.s@mail.com,"068123123",2023-07-20,AKTIVAN

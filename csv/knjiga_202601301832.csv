@@ -1,0 +1,7 @@
+"knjiga_id","broj_knjige","naslov","godina_izdanja","jezik","izdavac_id","kategorija_id"
+1,BK001,Na Drini cuprija,1945,Srpski,1,1
+2,BK002,Dervis i smrt,1966,Srpski,1,1
+3,BK003,"1984",1949,Engleski,3,1
+4,BK004,Sapiens,2011,Engleski,4,2
+5,BK005,Clean Code,2008,Engleski,5,3
+6,BK006,"Thinking, Fast and Slow",2011,Engleski,4,5
